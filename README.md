@@ -2,7 +2,7 @@
 [![MasterHead](https://webitexperts.com/images/banner1_1.gif)  ]
 <h1 align="center">Hi 👋, I'm Gideon Ngetich</h1>
 <h3 align="center">I'm a tech enthusiastic student from Kenya</h3>
-<img align="right" alt="my_coding_gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="my_coding_gif" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3c00f6105775659.5f84899401909.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngetich-86&label=Profile%20views&color=0e75b6&style=flat" alt="ngetich-86" /> </p>
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **web development,CSS,HTML and javascript**
 
-- 📫 How to reach me **gideonkngetich86@gmhttps://gmail.com**
+- 📫 How to reach me **gideonkngetich86@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
