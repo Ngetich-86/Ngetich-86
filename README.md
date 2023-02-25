@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngetich-86" alt="ngetich-86" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix clone**
+- 🔭 I’m currently working on **my react portfolio**
 
 - 🌱 I’m currently learning **ReactJs**
 
