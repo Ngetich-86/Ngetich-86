@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **backend web development**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NodeJs and express**
 
 - 👯 I’m looking to collaborate on **Full-stack project**
 
