@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngetich-86" alt="ngetich-86" /></a> </p>
 
-- 🔭 I’m currently working on **backend web development**
+- 🔭 I’m currently working on **Full-stack project**
 
 - 🌱 I’m currently learning **NodeJs and express**
 
-- 👯 I’m looking to collaborate on **Full-stack project**
+- 👯 I’m looking to collaborate on **REAL WORLD FULLSTACK PROJECT**
 
 - 👨💻 All of my projects are available at [https://github.com/Ngetich-86/](https://github.com/Ngetich-86/)
 
