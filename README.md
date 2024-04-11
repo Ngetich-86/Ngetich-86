@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Full-stack project**
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **typescript**
 
 - 👯 I’m looking to collaborate on **REAL WORLD FULLSTACK PROJECT**
 
