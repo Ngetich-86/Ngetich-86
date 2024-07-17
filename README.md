@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **Full-stack project**
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **DevOps and AWS**
 
 - 👯 I’m looking to collaborate on **REAL WORLD FULLSTACK PROJECT**
 
 - 👨💻 All of my projects are available at [https://github.com/Ngetich-86/](https://github.com/Ngetich-86/)
 
-- 💬 Ask me about **web development,CSS,HTML and javascript**
+- 💬 Ask me about **web development,Azure and AWS**
 
 - 📫 How to reach me **gideonkngetich86@gmail.com**
 
