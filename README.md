@@ -2,7 +2,14 @@
 [![MasterHead](https://webitexperts.com/images/banner1_1.gif)  ]
 <h1 align="center">Hi 👋, I'm Gideon Ngetich</h1>
 <h3 align="center">I'm a tech enthusiastic student from Kenya</h3>
-<img align="right" alt="my_coding_gif" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666975601963/U7VvHXeDV.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
+<!-- <img align="right" alt="my_coding_gif" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666975601963/U7VvHXeDV.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"> -->
+| Repository Activity Trends | Collaborative Productivity - Last 28 days |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngetich-86&label=Profile%20views&color=0e75b6&style=flat" alt="ngetich-86" /> </p>
 
