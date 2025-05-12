@@ -1,8 +1,9 @@
 
 [![MasterHead](https://webitexperts.com/images/banner1_1.gif)  ]
 <h1 align="center">Hi 👋, I'm Gideon Ngetich</h1>
-<h3 align="center">I'm a tech enthusiastic student from Kenya</h3>
+<h3 align="center">I'm a tech enthusiast from Kenya</h3>
 <!-- <img align="right" alt="my_coding_gif" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666975601963/U7VvHXeDV.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"> -->
+
 | Repository Activity Trends | Collaborative Productivity - Last 28 days |
 | ----------- | ----------- |
 |<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
