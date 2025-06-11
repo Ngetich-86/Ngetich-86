@@ -10,7 +10,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngetich-86&label=Profile%20views&color=0e75b6&style=flat" alt="ngetich-86" /> </p>
 
