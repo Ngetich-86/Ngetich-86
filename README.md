@@ -4,11 +4,6 @@
 <!-- [![MasterHead](https://webitexperts.com/images/banner1_1.gif)  ] -->
 <!-- <img align="right" alt="my_coding_gif" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666975601963/U7VvHXeDV.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"> -->
 
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>  -->
 
@@ -16,9 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngetich-86" alt="ngetich-86" /></a> </p>
 
-- 🔭 I’m currently working on **Full-stack project**
+- 🔭 I’m currently working on **Full-stack development**
 
-- 🌱 I’m currently learning **DevOps and AWS**
+- 🌱 I’m currently learning **DevOps and QA**
 
 - 👯 I’m looking to collaborate on **REAL WORLD FULLSTACK PROJECT**
 
