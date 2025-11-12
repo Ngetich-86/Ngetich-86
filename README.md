@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **web development,QA, and Cloud**
 
-- 📫 How to reach me **ezrabekele.lucky@gmail.com**
+- 📫 How to reach me **ezrabekele.dev@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left"> -->
