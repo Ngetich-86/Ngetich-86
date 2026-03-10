@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ezra Bekele</h1>
-<h3 align="center">I'm a tech enthusiast from California, US</h3>
+<h1 align="center">Hi 👋 Welcome to my GitHub profile</h1>
+<h3 align="center">Tech enthusiast | Full-Stack Developer | Cloud & DevOps & QA | Always learning</h3>
 
 <!-- [![MasterHead](https://webitexperts.com/images/banner1_1.gif)  ] -->
 <!-- <img align="right" alt="my_coding_gif" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1666975601963/U7VvHXeDV.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm"> -->
