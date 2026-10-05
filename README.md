@@ -1,236 +1,71 @@
-<h1 align="center">Hi 👋 Welcome to my GitHub profile</h1>
+# Gideon Ngetich
 
-<h3 align="center">
-Software Engineering • Quality Engineering • Test Automation • AI-Assisted Software Engineering
-</h3>
+**QA Engineer · Test Automation · API & Performance Testing**
 
-<p align="center">
-Building, testing, and improving dependable software systems.
-</p>
+I test web, mobile and backend systems by combining exploratory investigation,
+browser and mobile automation, API validation and performance testing, and I
+wire those checks into CI so regressions are caught before release.
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+Nairobi, Kenya · open to remote roles
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ngetich-86&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ngetich-86&margin-w=10&margin-h=10&no-frame=true" alt="GitHub trophies" />
-  </a>
-</p>
+[Portfolio](https://gideon-ngetich.vercel.app/) ·
+[LinkedIn](https://www.linkedin.com/in/gideon-ngetich/) ·
+[Credly](https://www.credly.com/users/gideon-gideonkngetich86-gmail-com/badges) ·
+[ngetich.gideon@outlook.com](mailto:ngetich.gideon@outlook.com)
 
 ---
 
-## 👨‍💻 About this profile
+## What I test
 
-I work across **software engineering and quality engineering**, with a particular
-interest in building reliable backend and web systems and validating them through
-automation, integration testing, API testing, and reproducible engineering
-workflows.
+**Web & mobile quality.** Functional, regression, smoke and exploratory testing,
+with test cases, environments and evidence recorded so results can be reproduced.
 
-My current interests include:
+**Automation.** Playwright and Selenium for browser workflows; Maestro for Android
+smoke flows on physical devices, written with semantic selectors and no fixed sleeps.
 
-- 🧪 **Quality Engineering & Test Automation**
-- ⚙️ **Backend and Full-Stack Software Engineering**
-- 🔌 **REST APIs & System Integration**
-- 🐳 **DevOps, CI/CD & Containerized Environments**
-- ☁️ **Cloud Engineering**
-- 🤖 **AI-Assisted Software Engineering**
-- 🔬 **Empirical Software Engineering & Software Quality Research**
+**API quality.** Postman, Insomnia and Jest + Supertest: authentication and
+authorization, validation, negative paths, error mapping and status-code contracts.
 
-I am especially interested in the question:
+**Performance.** Grafana k6 smoke, spike, stress and soak profiles with explicit
+thresholds, reported as test conditions rather than capacity claims.
 
-> How can automated testing and software-quality evidence help us evaluate
-> whether AI-generated software changes are safe, correct, and reliable?
+**Quality gates in CI/CD.** Lint, type checks and automated suites as blocking
+steps in GitHub Actions and Jenkins, plus Prometheus/Grafana for runtime visibility.
 
 ---
 
-## 🔭 Current Focus
+## Selected work
 
-- Building and improving **real-world software systems**
-- Developing stronger **automated test suites**
-- Testing backend services, APIs, integrations, authentication, and application behavior
-- Improving software reliability through **CI/CD and quality gates**
-- Exploring **AI-assisted software engineering, testing, and software evolution**
-- Developing research-oriented software artifacts that combine **AI, quality engineering, and empirical evaluation**
-
----
-
-## 🧪 Quality Engineering
-
-Areas I actively work with include:
-
-- Functional testing
-- Regression testing
-- Integration testing
-- API testing
-- End-to-end testing
-- Unit testing
-- Security-focused regression testing
-- Performance testing
-- Test automation
-- Test isolation and reproducibility
-- CI-based quality validation
-
-### Testing & QA Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-</p>
+| Project | What it shows |
+|---|---|
+| [icon-training-mobile-qa](https://github.com/Ngetich-86/icon-training-mobile-qa) | Current QA practice on the Icon Training Android app: risk-based test design, a feature inventory built from observation, Maestro smoke flows behind a device preflight, FAIL vs BLOCKED result semantics, and a privacy-first evidence policy. |
+| [springboot-nextjs-employee-manager](https://github.com/Ngetich-86/springboot-nextjs-employee-manager) | Spring Boot + Next.js app with 65+ JUnit/MockMvc/integration tests in CI. Defects such as an expired JWT returning an uncaught exception instead of 401 were fixed and covered by regression tests through pull requests. |
+| [task_manager](https://github.com/Ngetich-86/task_manager) | QA lab around a Node.js/Express API: 78 Jest + Supertest unit and API-layer tests running in GitHub Actions, and k6 smoke, spike and stress profiles with thresholds. |
+| [Gideon.Ngetich](https://github.com/Ngetich-86/Gideon.Ngetich) | My portfolio, guarded by Playwright end-to-end, axe accessibility, link-integrity and Lighthouse checks on every pull request. |
+| [DevSecOps-Lab-](https://github.com/Ngetich-86/DevSecOps-Lab-) | Task API with CI quality gates (lint, type check, unit tests), a Jenkins pipeline definition and Prometheus/Grafana monitoring. The README separates enforced gates from planned ones. |
+| [PulseStream](https://github.com/Ngetich-86/PulseStream) | Co-developed Rust event-processing platform: bounded concurrency, durable idempotent admission on PostgreSQL, lease-based recovery, and deterministic concurrency tests behind fmt/clippy/test/integration CI gates. |
 
 ---
 
-## ⚙️ Software Engineering
+## Tools
 
-I enjoy working on systems where software engineering and quality engineering
-meet — especially backend applications, APIs, databases, authentication,
-caching, CI/CD, and automated verification.
-
-### Languages & Frameworks
-
-<p align="left">
-
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-</a>
-
-</p>
-
-### Data, Cloud & Engineering Tools
-
-<p align="left">
-
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</a>
-
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-</a>
-
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
-</a>
-
-</p>
+**Testing:** Playwright · Selenium · Cypress · Maestro · Jest · Supertest · JUnit\
+**API:** Postman · Insomnia · REST\
+**Performance:** Grafana k6\
+**Languages:** TypeScript · JavaScript · Java · C# · Python · SQL\
+**Delivery & security:** GitHub Actions · Jenkins · Docker · Trivy · Azure\
+**Observability:** Prometheus · Grafana\
+**Tracking:** Jira · Azure DevOps · TestRail
 
 ---
 
-## 🔬 Research Interests
+## Certifications
 
-Alongside industry-focused engineering work, I am developing deeper interests in:
+Verified on [Credly](https://www.credly.com/users/gideon-gideonkngetich86-gmail-com/badges):
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/42e8fa91-19a0-47aa-89db-3f8170f3e8a6) ·
+[Microsoft Azure Fundamentals (AZ-900)](https://www.credly.com/badges/2ac5c407-ddf7-4e46-936f-c16f2587cdf7) ·
+[Introduction to Linux (LFS101)](https://www.credly.com/badges/f6dc33e2-fe89-4f6f-9180-33018b4056b0) ·
+[Introduction to Kubernetes (LFS158)](https://www.credly.com/badges/e7c330a9-35ff-4f13-acb9-ad16506c8107) ·
+[Kubernetes and Cloud Native Essentials (LFS250)](https://www.credly.com/badges/a1ecc256-50e8-498c-ab8d-fe9c4a392946)
 
-- AI-assisted software engineering
-- Software testing and quality
-- Software evolution
-- Empirical software engineering
-- Dependable AI-generated code
-- Automated verification
-- Developer–LLM collaboration
-- Software security and reliability
-
-I am particularly interested in building research-oriented software artifacts
-that combine **real software repositories, automated testing, AI-generated
-changes, and measurable software-quality evidence**.
-
----
-
-## 🤝 Collaboration
-
-I am open to collaborating on:
-
-- Quality engineering and test automation
-- Backend/API engineering
-- Java and Spring Boot projects
-- Full-stack software systems
-- CI/CD and software-quality tooling
-- Open-source software
-- AI-assisted software engineering
-- Research-oriented software engineering projects
-
----
-
-## 📬 Let's Connect
-
-Open to conversations around software engineering, quality engineering,
-test automation, research collaborations, and technical opportunities.
-
-📧 [ngetich.gideon@outlook.com](mailto:ngetich.gideon@outlook.com)
-
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ngetich-86&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngetich-86&show_icons=true&locale=en" alt="GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngetich-86" alt="GitHub streak" />
-</p>
-
----
-
-<p align="center">
-  <i>Building software. Testing assumptions. Improving reliability.</i>
-</p>
+BSc Software Engineering, Kirinyaga University · Former Gold Microsoft Learn Student Ambassador
