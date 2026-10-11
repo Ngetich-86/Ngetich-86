@@ -1,7 +1,5 @@
 ![](https://github.com/halfrost/halfrost/raw/master/icons/header_.png)
 
-# Gideon Ngetich
-
 **QA Engineer · Test Automation · API & Performance Testing**
 
 I test web, mobile and backend systems by combining exploratory investigation,
