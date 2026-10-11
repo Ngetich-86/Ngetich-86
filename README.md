@@ -24,19 +24,6 @@ thresholds, reported as test conditions rather than capacity claims.
 
 **Quality gates in CI/CD.** Lint, type checks and automated suites as blocking
 steps in GitHub Actions and Jenkins, plus Prometheus/Grafana for runtime visibility.
-
----
-
-
-## Tools
-
-**Testing:** Playwright · Selenium · Cypress · Maestro · Jest · Supertest · JUnit\
-**API:** Postman · Insomnia · REST\
-**Performance:** Grafana k6\
-**Languages:** TypeScript · JavaScript · Java · C# · Python · SQL\
-**Delivery & security:** GitHub Actions · Jenkins · Docker · Trivy · Azure\
-**Observability:** Prometheus · Grafana\
-**Tracking:** Jira · Azure DevOps · TestRail
 ---
 
 ## 📊 GitHub Activity
