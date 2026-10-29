@@ -1,11 +1,5 @@
 ![](https://github.com/halfrost/halfrost/raw/master/icons/header_.png)
 
-# Gideon Ngetich
-
-**Software Engineer in Test · Python, pytest, API & Integration Testing, CI/CD**
-
-[Portfolio](https://gideonngetich.me) · [LinkedIn](https://www.linkedin.com/in/gideon-ngetich/)
-
 I test backend and distributed systems by writing automated regression, API and
 integration tests, reproducing failures before fixing them, and wiring those checks
 into CI so regressions are caught before release. I also build the backend services
@@ -132,7 +126,3 @@ More testing work: [Task Manager QA lab](https://github.com/Ngetich-86/task_mana
 </p>
 
 ---
-
-## Contact
-
-[Portfolio](https://gideonngetich.me) · [LinkedIn](https://www.linkedin.com/in/gideon-ngetich/)
