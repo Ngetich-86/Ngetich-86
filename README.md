@@ -1,5 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Ngetich-86&label=Profile%20views&style=flat-square)
-![](https://github.com/halfrost/halfrost/raw/master/icons/header_.png)
+![Software Engineer in Test banner](./assets/software-engineer-in-test-banner.png)
 
 I test backend and distributed systems by writing automated regression, API and
 integration tests, reproducing failures before fixing them, and wiring those checks
