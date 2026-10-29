@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=Ngetich-86&label=Profile%20views&style=flat-square)
 ![](https://github.com/halfrost/halfrost/raw/master/icons/header_.png)
 
 I test backend and distributed systems by writing automated regression, API and
