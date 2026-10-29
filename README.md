@@ -50,7 +50,7 @@ with test cases, environments and evidence recorded so results can be reproduced
 
 ## Open Source Work
 
-### CVAT — Regression Test Contribution in Validation
+### CVAT — Regression Test Contribution · PR Open
 
 `Python · pytest · REST API · Docker · GitHub Actions`
 
@@ -64,8 +64,9 @@ with test cases, environments and evidence recorded so results can be reproduced
 - Verified the regression red/green in GitHub Actions: both new cases pass with the current
   fix and fail with HTTP 400, a validation error on the listing's `content` field, when only
   the #11201 filter is removed.
+- Upstream pull request is open and awaiting maintainer review.
 
-Branch: [Ngetich-86/cvat · test/cloud-storage-empty-path-segment-listing](https://github.com/Ngetich-86/cvat/tree/test/cloud-storage-empty-path-segment-listing)
+Pull request: [cvat-ai/cvat#11412](https://github.com/cvat-ai/cvat/pull/11412)
 
 ---
 
